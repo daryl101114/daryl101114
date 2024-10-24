@@ -20,11 +20,11 @@
 
 <h2 align="center" class="section-heading">💻 Programming Languages</h2>
 <div align="center">
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
   <img src="https://img.shields.io/badge/C SHARP-512BD4?style=for-the-badge&logo=c&logoColor=white" alt="React"/>
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript"/>
   <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TS"/>
   <img src="https://img.shields.io/badge/SQL-FA7343?style=for-the-badge&logo=sqlite&logoColor=white" alt="SQL"/>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
 
 
 <h2 align="center" class="section-heading">🔧 Frameworks</h2>
