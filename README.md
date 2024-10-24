@@ -3,6 +3,10 @@
 <div id="header" align="center">
   <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
 </div>
+<div align="center">
+    <h2>🚀 About Me</h2>
+    <p>I'm a Software Developer that enjoys building apps that I use every day. Feel free to browse around!</p>
+</div>
 <!--
 **daryl101114/daryl101114** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
