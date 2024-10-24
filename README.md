@@ -4,7 +4,7 @@
 </div>
 <div align="center">
     <h2>🚀 About Me</h2>
-    <p>Hi!I'm Daryl Santillan a Software Developer that enjoys building apps that I use every day. Feel free to browse around!</p>
+    <p>Hi, I'm Daryl Santillan a Software Developer that enjoys building apps that I use every day. Feel free to browse around!</p>
 </div>
 <div align="center">
 <h2 align="center" class="section-heading">🌐 Connect with Me</h2>
