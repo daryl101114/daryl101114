@@ -1,9 +1,7 @@
 ## Hi there 👋
 
-<div align="center">
-    <h1>
-        <img src="https://readme-typing-svg.herokuapp.com?font=Jetbrains+mono&size=40&duration=3000&color=33FF33&center=true&vCenter=true&width=435&lines=Hey..+I'm+Daryl Santilan;This+is..;..my+Github..;" alt="Typing SVG"/>
-    </h1>
+<div id="header" align="center">
+  <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
 </div>
 <!--
 **daryl101114/daryl101114** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
