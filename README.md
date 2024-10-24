@@ -1,11 +1,10 @@
 ## Hello World👋
-
 <div id="header" align="center">
   <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
 </div>
 <div align="center">
     <h2>🚀 About Me</h2>
-    <p>I'm a Software Developer that enjoys building apps that I use every day. Feel free to browse around!</p>
+    <p>Hi!I'm Daryl Santillan a Software Developer that enjoys building apps that I use every day. Feel free to browse around!</p>
 </div>
 <div align="center">
 <h2 align="center" class="section-heading">🌐 Connect with Me</h2>
